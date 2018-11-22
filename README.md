@@ -28,6 +28,9 @@ PictureSensation, a mobile application for the hapto-acoustic exploration of ima
 
  
  ## References
+
+Banf, M., Mikalay, M., Watzke, B. and Blanz, V.,“PictureSensation – a mobile application to help the blind explore the visual world through touch and sound,” Journal of Rehabilitation and Assistive Technologies Engineering, 2016.
+ 
 Banf, M., and Blanz, V., “Man Made Structure Detection and Verification of Object Recognition in Images for the Visually Impaired,” Proceedings of Mirage 2013, 6th International Conference on Computer Vision/ Computer Graphics Collaboration Techniques and Applications – in Cooperation with Eurographics Association, June 6-7, 2013, Berlin, Germany.
 
 Banf, M., and Blanz, V., “Sonification of Images for the Visually Impaired using a Multi-Level Approach,” Proceedings of Augmented Human 2013 – in Cooperation with ACM SIGCHI, March 7-8, 2013, Stuttgart, Germany, pp. 162-169.
