@@ -8,15 +8,15 @@ PictureSensation, a mobile application for the hapto-acoustic exploration of ima
  
  ## Design
  
-![Alt text](/figure1.jpg?raw=true "functionality map")
+![Alt text](/figure1.jpeg?raw=true "functionality map")
  An illustration of our barrier free user interface design principle. Two-finger swipe gestures are used to navigate through the different modes of the application
 
  
-   ![Alt text](/figure2.jpg?raw=true "functionality map")
+   ![Alt text](/figure2.jpeg?raw=true "functionality map")
 (a) The PictureSensation application in exploration and (b) colour training mode in comparison with (c) the original desktop based research protoype.6
  
  
-   ![Alt text](/figure3.jpg?raw=true "functionality map")
+   ![Alt text](/figure3.jpeg?raw=true "functionality map")
  (a) The audible colour space representation as first proposed by Banf and Blanz.5 MIDI instruments represent opponent colours. (b) The novel sonification model6 used in PictureSensation. Opponent colours are represented by complementary sound characteristics.
  
  
@@ -28,13 +28,11 @@ PictureSensation, a mobile application for the hapto-acoustic exploration of ima
 
  
  ## References
- 
- Installation of devtools dependencies under Ubuntu (prior to installing devtools):
- sudo apt-get install build-essential libcurl4-gnutls-dev libxml2-dev libssl-dev
- 
- Then install.packages("devtools")
- 
- Custom gene cluster data format:  "Cluster.ID", "Gene.ID", "Gene.Name", see [custom_example_data](https://1drv.ms/t/s!Avm82Xhe9EZj4wVPMoWIubwiA9uI)
+Banf, M., and Blanz, V., “Man Made Structure Detection and Verification of Object Recognition in Images for the Visually Impaired,” Proceedings of Mirage 2013, 6th International Conference on Computer Vision/ Computer Graphics Collaboration Techniques and Applications – in Cooperation with Eurographics Association, June 6-7, 2013, Berlin, Germany.
+
+Banf, M., and Blanz, V., “Sonification of Images for the Visually Impaired using a Multi-Level Approach,” Proceedings of Augmented Human 2013 – in Cooperation with ACM SIGCHI, March 7-8, 2013, Stuttgart, Germany, pp. 162-169.
+
+Banf, M., and Blanz, V., “A Modular Computer Vision Sonfication Model for the Visually Impaired,” Proceedings of the 18th International Conference on Auditory Display, June, 18 – 21, 2012, Atlanta, Georgia.
 
 
  
