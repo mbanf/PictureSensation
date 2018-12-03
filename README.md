@@ -4,11 +4,11 @@
 
 In "Critique of Pure Reason" Immanuel Kant stated that our knowledge of the outside
 world depends on our modes of perception:
-
 "What is first given to us is appearance. When combined with consciousness, it
 is called perception."
 
-Leonardo da Vinci proclaimed: "The eye encompasses the beauty of the whole world."
+Leonardo da Vinci proclaimed: 
+"The eye encompasses the beauty of the whole world."
 
 Making this visual beauty of the world more accessible to visually impaired people has
 inspired researchers in Computer Vision for a long time. Perhaps the most ambitious
