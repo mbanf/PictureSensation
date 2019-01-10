@@ -84,5 +84,5 @@ Banf, M., and Blanz, V., “Sonification of Images for the Visually Impaired usi
 
 Banf, M., and Blanz, V., “A Modular Computer Vision Sonfication Model for the Visually Impaired,” Proceedings of the 18th International Conference on Auditory Display, June, 18 – 21, 2012, Atlanta, Georgia.
 
-
+Banf, M., "Auditory Image Understanding for the Visually Impaired Based on a Modular Computer Vision Sonification Model," PhD Thesis,  2013, Siegen 
  
