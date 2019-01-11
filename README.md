@@ -40,6 +40,10 @@ of the scene within my mind which really corresponds with what is shown in
 the image."
 
 
+## Video 
+
+[![PictureSensation](/youGrace.JPG)](https://www.youtube.com/watch?v=NecST21JRcg&t=268s "PictureSensation")
+
 
 
 
