@@ -42,7 +42,7 @@ the image."
 
 ## Video 
 
-[![PictureSensation](/youGrace.JPG)](https://www.youtube.com/watch?v=NecST21JRcg&t=268s "PictureSensation")
+[![PictureSensation](/PS.JPG)](https://www.youtube.com/watch?v=NecST21JRcg&t=268s "PictureSensation")
 
 
 
